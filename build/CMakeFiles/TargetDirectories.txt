@@ -1,0 +1,3 @@
+/home/zilezia/Documents/docs/testing-gl/build/CMakeFiles/testing-gl.dir
+/home/zilezia/Documents/docs/testing-gl/build/CMakeFiles/edit_cache.dir
+/home/zilezia/Documents/docs/testing-gl/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/testing-gl.dir/glad.c.o" "CMakeFiles/testing-gl.dir/main.cpp.o" -o testing-gl  -lGL -ldl -lglfw 
